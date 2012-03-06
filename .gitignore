@@ -1,7 +1,7 @@
 .git
 .hg
 .svn
+.DS_Store
 
 *.pyc
 *.pyo
-
