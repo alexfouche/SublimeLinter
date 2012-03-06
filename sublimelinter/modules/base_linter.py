@@ -185,6 +185,7 @@ class BaseLinter(object):
             return ''
 
         try:
+            print args
             process = subprocess.Popen(args,
                                        stdin=subprocess.PIPE,
                                        stdout=subprocess.PIPE,
