@@ -1,3 +1,6 @@
+*This package is a fork from `https://github.com/Kronuz/SublimeLinter`__. Puppet parsing is taken from fork `https://github.com/20after4/SublimeLinter`__.*
+
+
 SublimeLinter
 =============
 
@@ -15,6 +18,7 @@ SublimeLinter has built in linters for the following languages:
 * php - syntax checking via "php -l"
 * java - lint via "javac -Xlint"
 * perl - syntax+deprecation checking via "perl -c"
+* puppet - syntax check via "puppet parser validate"
 
 .. image:: http://pledgie.com/campaigns/16512.png?skin_name=chrome
    :alt: Click here to lend your support to SublimeLinter and make a donation at pledgie.com!
